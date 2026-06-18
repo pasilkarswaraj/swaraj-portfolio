@@ -1,16 +1,73 @@
-# React + Vite
+# Swaraj Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern developer portfolio built with React, Vite, Tailwind CSS, Framer Motion, and EmailJS.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://swaraj-portfolio-three.vercel.app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive Design
+* Smooth Animations with Framer Motion
+* Batman Inspired Dark Theme
+* Scroll Progress Bar
+* Loading Screen
+* Resume Download
+* Contact Form with EmailJS
+* GitHub & LinkedIn Integration
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Vite
+* Tailwind CSS
+* Framer Motion
+* EmailJS
+* React Icons
+* Vercel
+
+## Sections
+
+* Home
+* About
+* Skills
+* Projects
+* Contact
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/pasilkarswaraj/swaraj-portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd swaraj-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+## Author
+
+Swaraj Pasilkar
+
+* GitHub: https://github.com/pasilkarswaraj
+* LinkedIn: https://www.linkedin.com/in/swaraj-pasilkar
+
+## License
+
+This project is open source and available under the MIT License.
